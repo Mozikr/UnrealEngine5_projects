@@ -13,7 +13,7 @@ The folders contain the code and a preview of how the script(s) work.
 </p>
 
 <p align="center">
-  <img src=""/>
+  <img src="HangingWorlds.png"/>
 </p>
 
 <div align="center">
