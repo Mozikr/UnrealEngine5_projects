@@ -17,6 +17,7 @@ The folders contain the code and a preview of how the script(s) work.
 </p>
 
 <div align="center">
-  <a>Work in progress</a>
+  <a>Check out the game</a>
+  <a href="https://mozikr.itch.io/hangingworlds">HangingWorlds</a>
 </div>
 <!-- … -->
